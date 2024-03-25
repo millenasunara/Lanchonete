@@ -1,7 +1,7 @@
 # Sobre o projeto
 Esse projeto foi desenvolvido baseado em uma lanchonete, onde o usuário pode realizar o pedido e salvar a comanda em um arquivo .txt.
 
-![read me-img]![image](https://github.com/millenasunara/Lanchonete/assets/148871283/89047f09-a393-4a29-9c57-4060aacfe0bb)
+![read me-img](https://github.com/millenasunara/Lanchonete/assets/148871283/89047f09-a393-4a29-9c57-4060aacfe0bb)
 
 
 Exemplificação do terminal.
